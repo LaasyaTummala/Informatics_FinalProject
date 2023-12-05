@@ -104,3 +104,9 @@ Tools Used:
 5. RandomForestClassifier: To create and train a random forest classifier model. Random Forest is an ensemble learning method that can be used for classification tasks.
 
 6. accuracy_score: To evaluate the accuracy of the trained model by comparing predicted labels to true labels.
+
+
+
+Web App Link:
+
+https://laasyatummala-informatics-finalproject-app-8ql1no.streamlit.app/
